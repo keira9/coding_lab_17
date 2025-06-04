@@ -13,8 +13,8 @@ Then Dedine created the archive function() which is responsible for archiving th
  2.Identifies the log type
  3.Generates a timestamp
  4.Creates the appropriate archive folder if it doesn't exist
- > The mkdir -p command is used to handle archive directory issues (if the archive directory does not exist, it will create it) 
+  The mkdir -p command is used to handle archive directory issues (if the archive directory does not exist, it will create it) 
  5.Rename and move the file to the archive folder
  6.Creates a new empty log file at the original location for continued monitoring
 
- There is also the error handling under the archive function() where by if the log file is missing, the function notifies the user and then stops. 
+There is also the error handling under the archive function() where by if the log file is missing, the function notifies the user and then stops. 
