@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Task 1:Archive logs
 This infrastructure mimics the hospital's real-time monitoring of physiological parameters like heart rate, temperature, and water intake. This infrastructure continuously collects data from dummy sensors—heart rate, temperature, and water meters—and saves this data in active log files.To maintain the ever-expanding log files in check and to allow easy monitoring, the system also possesses an interactive archival scprit.
 
@@ -18,3 +19,11 @@ Then Dedine created the archive function() which is responsible for archiving th
  6.Creates a new empty log file at the original location for continued monitoring
 
 There is also the error handling under the archive function() where by if the log file is missing, the function notifies the user and then stops. 
+=======
+# coding_lab_17
+The first group assignment
+
+
+
+more test
+>>>>>>> 21e3a4d42796846306886f61cc4cc57931ccb856
