@@ -34,18 +34,17 @@ The -e flag with the echo command to enable escaping of characters
 
 The Input Function calls the analyze function for each file, and it handles errors for invalid user input using conditionals.
 
-The analyze function
+The analyze function:
 The first line of the analyse function creates the reports directory using the mkdir -p command.
 It makes use of the -p flag in the mkdir function to create the reports directory in the current directory if it does not exist. If the directory exists, that line of code is skipped.
 
 The first time stamp is collected with the head command, and stored in a variable.
 The last time stamp is collected with the tail command, and stored in a variable also.
-The time of analysis of the file is collected using the date variable
+The time of analysis of the file is collected using the date command.
 
 Using conditionals, the analyze function appends the analyzed contents which are specific to the selected file to the analysis report.txt file. 
 It makes use of the awk command to get each unique device in the log file and the number of times they occurred.
 
 It makes use of the while loop to append each device and their occurrences into the report file.
 
-Finally, the analyze_logs.sh script calls the input function.
-
+Finally, the analyze_logs.sh script calls the input funcion
