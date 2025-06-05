@@ -1,0 +1,35 @@
+_ _ _ Heart Rate Log File Analysis _ _ _
+Time of the analysis: Thu Jun  5 23:29:12 SAST 2025
+Device Counts:
+HeartRate_Monitor_A - 241
+HeartRate_Monitor_B - 241
+First Entry: 2025-06-03 05:10:03 HeartRate_Monitor_A 63
+Last Entry: 2025-06-03 05:14:04 HeartRate_Monitor_B 65
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+                                       
+_ _ _ Temperature Log File Analysis _ _ _
+Time of the analysis: Thu Jun  5 23:29:22 SAST 2025
+Device Counts:
+Temp_Recorder_A - 22
+Temp_Recorder_B - 22
+First Entry: 2025-06-03 05:13:42 Temp_Recorder_A 36.5
+Last Entry: 2025-06-03 05:14:03 Temp_Recorder_B 38.4
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+                                       
+_ _ _ Water Usage Log File Analysis _ _ _
+Time of the analysis: Thu Jun  5 23:29:32 SAST 2025
+Device Counts:
+Water_Consumption_Meter - 625
+First Entry: 2025-06-03 05:10:38 Water_Consumption_Meter 4
+Last Entry: 2025-06-04 05:46:30 Water_Consumption_Meter 5
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+                                       
+_ _ _ Temperature Log File Analysis _ _ _
+Time of the analysis: Thu Jun  5 23:29:40 SAST 2025
+Device Counts:
+Temp_Recorder_A - 22
+Temp_Recorder_B - 22
+First Entry: 2025-06-03 05:13:42 Temp_Recorder_A 36.5
+Last Entry: 2025-06-03 05:14:03 Temp_Recorder_B 38.4
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+                                       
